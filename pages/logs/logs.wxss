@@ -25,7 +25,7 @@ page{
   flex: auto;
   height:100%;
 }
- 
+
 .inputView {
   background-color: #fff;
   line-height: 44px;
